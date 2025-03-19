@@ -1,0 +1,23 @@
+.title-border {
+	width: 98%;
+	border: 1px solid;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	font-family: Batang, serif;
+}
+
+.title-border h1 {
+	color: #ff0000;
+}
+
+.footer {
+	position: fixed;
+	bottom: 10px;
+	left: 20px;
+	width: 98%;
+	border: 1px solid;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}

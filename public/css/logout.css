@@ -1,0 +1,13 @@
+.user-client {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.user-client #lblUserName {
+	float: left;
+}
+
+.user-client #llblLogout {
+	float: right;
+	margin-right: 29px;
+}
